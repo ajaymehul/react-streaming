@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Hello World",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Second Sons",
+      "description": "Game of thrones stream. Ha",
+      "userId": "102116026181541674713",
+      "id": 3
+    },
+    {
+      "title": "Testing new stream",
+      "description": "Oh my god I can change this. Fixed now",
+      "userId": "102116026181541674713",
+      "id": 4
+    }
+  ]
+}
